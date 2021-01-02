@@ -1,0 +1,15 @@
+left_headlight
+right_headlight
+top_left_lp
+top_right_lp
+bottom_left_lp
+bottom_right_lp
+top_left_windshield
+top_right_windshield
+bottom_left_windshield
+bottom_right_windshield
+brand
+top_left_radiator
+top_right_radiator
+bottom_left_radiator
+bottom_right_radiator
